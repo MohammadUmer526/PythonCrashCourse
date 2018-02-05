@@ -1,0 +1,15 @@
+visitplace=['Makkah', 'Madina','Karbala','Egypt','Israel']
+print(visitplace)
+print(sorted(visitplace))
+print(visitplace)
+visitplace.reverse()
+print(visitplace)
+visitplace.reverse()
+print(visitplace)
+
+visitplace.sort()
+print(visitplace)
+visitplace.sort()
+print(visitplace)
+visitplace.sort()
+print(visitplace)

@@ -1,0 +1,2 @@
+person={'first_name':'Muhammad','last_name':'Ali','age':'22','city':'Karachi',}     #dict_name={key:value}
+print("First name : " +  person['first_name'] + "\n", "Last name: " + person['last_name'] + "\n" , "Age : " + person['age'] + "\n" , "City : " + person['city'])
